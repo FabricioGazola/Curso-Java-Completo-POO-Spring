@@ -1,0 +1,26 @@
+
+public class Exemplo {
+
+	public static void main(String[] args) {
+		
+		//Sem Ternário
+		
+		double preco = 35.5;
+		double desconto;
+		if (preco < 20.0) {
+			desconto = preco * 0.1;
+		}
+		else {
+			desconto = preco * 0.05;
+		}
+		
+		System.out.println(desconto);
+		
+		//Com Ternária
+		
+		double precoT = 35.5;
+		double descontoT 
+
+	}
+
+}

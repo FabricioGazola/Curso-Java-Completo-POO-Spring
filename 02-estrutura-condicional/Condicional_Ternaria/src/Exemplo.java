@@ -1,0 +1,28 @@
+
+public class Exemplo {
+
+	public static void main(String[] args) {
+		
+		//Sem Ternário
+		
+		double preco = 35.5;
+		double desconto;
+		if (preco < 20.0) {
+			desconto = preco * 0.1;
+		}
+		else {
+			desconto = preco * 0.05;
+		}
+		
+		System.out.printf("Resultado conta sem ternário: %.2f%n", desconto);
+		
+		
+		//Com Ternária
+		
+		double precoT = 35.5;
+		double descontoT = (precoT < 20.0) ? precoT * 0.1 : precoT * 0.05;
+		
+		System.out.printf("Resultado conta com ternário: %.2f", descontoT);
+
+	}
+}

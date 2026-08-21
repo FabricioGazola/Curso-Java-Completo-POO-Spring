@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Dev\Curso_Java-Completo(POO)Spring\04-outros-topicos-basicos\.metadata\.plugins\org.eclipse.jdt.core
+531796549.index
+3725578255.index
+1865797976.index
+2767516749.index

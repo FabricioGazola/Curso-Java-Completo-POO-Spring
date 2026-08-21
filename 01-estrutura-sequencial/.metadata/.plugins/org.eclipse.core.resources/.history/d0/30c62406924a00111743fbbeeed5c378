@@ -1,0 +1,48 @@
+import java.util.Locale;
+import java.util.Scanner;
+
+public class LeituraDeDados {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		
+		//String
+		
+		String nome;
+		nome = sc.next();
+		System.out.println("Seu Nome: " + nome);
+		
+		//Inteiro
+		
+		int num;
+		num = sc.nextInt();
+		System.out.println("Número inteiro: " + num);
+		
+		//Ponto Flutuante ,
+		
+		double number1;
+		number1 = sc.nextDouble();
+		System.out.printf("Número com ponto flutuante: %.2f%n", number1);
+		
+		//Locale para o número ser formato US
+		Locale.setDefault(Locale.US);
+		
+		//Ponto Flutuante .
+		
+		double number2;
+		number2 = sc.nextDouble();
+		System.out.printf("Número com ponto flutuante: %.2f%n", number2);
+		
+		//Caracter
+		
+		char caract;
+		x = sc.next().charAt(0);
+		System.out.println("char: " + x);
+		
+		//Vários dados na mesma linha
+		
+		sc.close();
+	}
+
+}

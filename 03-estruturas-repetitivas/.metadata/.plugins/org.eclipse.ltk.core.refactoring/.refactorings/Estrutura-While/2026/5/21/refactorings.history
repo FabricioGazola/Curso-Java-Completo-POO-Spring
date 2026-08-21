@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Exemplo_while01&apos; to &apos;Exemplo01&apos;&#x0D;&#x0A;- Original project: &apos;Estrutura-Repetitiva&apos;&#x0D;&#x0A;- Original element: &apos;Exemplo_while01&apos;&#x0D;&#x0A;- Renamed element: &apos;Exemplo01&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Exemplo_while01&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{Exemplo_while01.java[Exemplo_while01" matchStrategy="1" name="Exemplo01" qualified="false" references="true" similarDeclarations="false" stamp="1778986385242" textual="false" version="1.0"/>
+</session>

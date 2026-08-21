@@ -1,0 +1,22 @@
+import java.util.Scanner;
+
+public class Exemplo_while01 {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		
+		int num = sc.nextInt();
+		int numw = 0;
+		
+		while (num != 0) {
+			numw = numw + num;
+			num = sc.nextInt();
+		}
+		
+		System.out.println(numw);
+		
+		sc.close();
+	}
+
+}

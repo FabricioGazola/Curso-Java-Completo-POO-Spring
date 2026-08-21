@@ -1,0 +1,14 @@
+INDEX VERSION 1.134+C:\Dev\Curso_Java-Completo(POO)Spring\01-estrutura-sequencial\.metadata\.plugins\org.eclipse.jdt.core
+1248135721.index
+1865797976.index
+1597420095.index
+3451539475.index
+2784965676.index
+3571761989.index
+3370412983.index
+1224084300.index
+3404602411.index
+2885631391.index
+3481907118.index
+3219348257.index
+2801298016.index
